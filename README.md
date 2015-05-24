@@ -2,7 +2,7 @@
 
 This repo holds all the code and outlines of my Duke of Edinburgh GPS Transmitter Receiver radio project.
 
-All code, Eagle files, documentation etc. is licensed under the Creative Commons Sharealike License (CC-by-SA).
+All code, Eagle files, documentation etc. is licensed under the [Creative Commons Sharealike License V3 (CC-by-SA)](http://creativecommons.org/licenses/by-sa/3.0/).
 
 ## Final code
 
